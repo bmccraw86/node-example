@@ -26,4 +26,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: bmccraw86/nginx-example:latest
+          tags: bmccraw86/node-example:latest
